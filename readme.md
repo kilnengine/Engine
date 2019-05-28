@@ -2,6 +2,7 @@
 A 2d game engine built on top of SDL2 using C++.
 
 ## Broad Overview
+### NOTE: This document has not been updated to reflect changes since it was created.
 ![img](https://i.imgur.com/H0O1yod.png)
 
 ## Engine Features
